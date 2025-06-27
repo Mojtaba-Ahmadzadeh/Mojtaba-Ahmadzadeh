@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mojtaba
 
-#### A passionate backend developer from Iran
+### <strong>A passionate backend developer from Iran</strong>
 
 <div>
   <small>
@@ -29,3 +29,4 @@ I’m passionate about clean, maintainable code and love studying software archi
   </small>
 </div>
 
+### <strong>more about me...</strong>
