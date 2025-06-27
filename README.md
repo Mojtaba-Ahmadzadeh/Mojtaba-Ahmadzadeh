@@ -19,8 +19,13 @@
 <div>
   <small>
 When I’m not crafting user interfaces or diving into frontend performance, I enjoy exploring the Linux ecosystem — customizing my desktop and streamlining my workflow for speed and simplicity. Outside of tech, music helps me stay focused and creative.
-
   </small>
 </div>
 
 <br/>
+<div>
+  <small>
+I’m passionate about clean, maintainable code and love studying software architecture. Inspired by developers like Uncle Bob, I constantly strive to write code that’s not only functional but also elegant and future-proof.
+  </small>
+</div>
+
