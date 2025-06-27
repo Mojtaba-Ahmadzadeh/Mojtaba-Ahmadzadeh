@@ -32,8 +32,7 @@ I’m passionate about clean, maintainable code and love studying software archi
 ### <strong>more about me...</strong>
 
 ```js
-const AboutMe = {
-  name: "Hossein Falah",
+const MojtabaAhmadzadeh = {
   role: "Frontend Developer",
   pronouns: "He/Him",
   aboutMe: "I'm a passionate frontend developer who loves building clean and user-friendly web applications.",
