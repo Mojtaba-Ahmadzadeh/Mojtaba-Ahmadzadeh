@@ -30,3 +30,22 @@ I’m passionate about clean, maintainable code and love studying software archi
 </div>
 
 ### <strong>more about me...</strong>
+
+```js
+const AboutMe = {
+  name: "Hossein Falah",
+  role: "Frontend Developer",
+  pronouns: "He/Him",
+  aboutMe: "I'm a passionate frontend developer who loves building clean and user-friendly web applications.",
+  skills: {
+    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    frameworksLibraries: ["React", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "MUI"],
+    tools: ["Git", "VSCode", "Chrome DevTools", "Figma"],
+    testing: ["Jest", "React Testing Library"],
+    practices: ["Responsive Design", "Accessibility (a11y)", "Performance Optimization", "SEO Basics"],
+  },
+  currentFocus: "Mastering React Server Components and building scalable frontend architectures",
+  funFact: "I love turning complex UI designs into pixel-perfect code!",
+};
+
+```
