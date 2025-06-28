@@ -52,3 +52,5 @@ const MojtabaAhmadzadeh = {
 ### Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,next,redux,figma,xd,github,gitlab)
+
+### Connect with me:
