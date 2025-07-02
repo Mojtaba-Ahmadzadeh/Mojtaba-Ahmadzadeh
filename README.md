@@ -54,3 +54,6 @@ const MojtabaAhmadzadeh = {
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,mui,next,redux,github,gitlab,figma,xd)
 
 ### Connect with me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourprofile)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/yourphonenumber)
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/yourusername)
