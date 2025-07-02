@@ -55,5 +55,5 @@ const MojtabaAhmadzadeh = {
 
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourprofile)
-[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/yourphonenumber)
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/yourusername)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/yourusername)
+
