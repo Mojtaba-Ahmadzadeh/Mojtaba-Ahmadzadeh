@@ -11,7 +11,7 @@
 <br/>
 <div>
   <small>
-   My journey in frontend development began recently, but it's been filled with exciting challenges, constant learning, and growth. I enjoy building clean, responsive UIs and exploring modern web technologies, performance optimization, and UX best practices every day.
+My journey in coding began recently, but it's been packed with challenges, learning, and growth. I love building clean, scalable APIs and learning more about software architecture and networking every day.
   </small>
 </div>
 
