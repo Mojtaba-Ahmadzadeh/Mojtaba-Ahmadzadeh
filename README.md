@@ -33,7 +33,6 @@ I’m passionate about clean, maintainable code and love studying software archi
 
 ```js
 const MojtabaAhmadzadeh = {
-  role: "Frontend Developer",
   pronouns: "He/Him",
   aboutMe: "I'm Backend Developer(Node.js)",
   skills: {
