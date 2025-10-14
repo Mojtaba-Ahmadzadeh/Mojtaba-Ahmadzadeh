@@ -37,7 +37,7 @@ const MojtabaAhmadzadeh = {
   pronouns: "He/Him",
   aboutMe: "I'm Backend Developer(Node.js)",
   skills: {
-    languages: ["JavaScript"],
+    languages: ["JavaScript", "typeScript"],
     frameworksLibraries: ["React", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "MUI"],
     tools: ["Git", "VSCode", "Chrome DevTools", "Figma"],
     testing: ["Jest", "React Testing Library"],
