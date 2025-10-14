@@ -4,7 +4,7 @@
 
 <div>
   <small>
-    I'm Mojtaba Ahmadzadeh, a 21-year-old software engineer from Iran. I'm a passionate frontend developer with nearly a year of hands-on experience building responsive web interfaces using React and Next.js.
+    I'm Mojtaba Ahmadzadeh, a 21-year-old software engineer from Iran. I'm a passionate backend developer with nearly a year of hands-on experience building backend systems using Node.js and NestJS.
   </small>
 </div>
 
