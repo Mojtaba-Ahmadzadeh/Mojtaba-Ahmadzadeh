@@ -39,6 +39,7 @@ const MojtabaAhmadzadeh = {
   skills: {
     languages: ["JavaScript", "typeScript"],
     frameworks: ["Express.js", "fastify", "Nest.js"],
+    microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
     tools: ["Git", "VSCode", "Chrome DevTools", "Figma"],
     testing: ["Jest", "React Testing Library"],
     practices: ["Responsive Design", "Accessibility (a11y)", "Performance Optimization", "SEO Basics"],
