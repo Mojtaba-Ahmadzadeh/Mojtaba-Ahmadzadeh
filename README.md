@@ -35,7 +35,7 @@ I’m passionate about clean, maintainable code and love studying software archi
 const MojtabaAhmadzadeh = {
   role: "Frontend Developer",
   pronouns: "He/Him",
-  aboutMe: "I'm a passionate frontend developer who loves building clean and user-friendly web applications.",
+  aboutMe: "I'm Backend   Developer(Node.js)",
   skills: {
     languages: ["JavaScript"],
     frameworksLibraries: ["React", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "MUI"],
