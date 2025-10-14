@@ -38,7 +38,7 @@ const MojtabaAhmadzadeh = {
   aboutMe: "I'm Backend Developer(Node.js)",
   skills: {
     languages: ["JavaScript", "typeScript"],
-    frameworksLibraries: ["React", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "MUI"],
+    frameworks: ["Express.js", "fastify", "Nest.js"],
     tools: ["Git", "VSCode", "Chrome DevTools", "Figma"],
     testing: ["Jest", "React Testing Library"],
     practices: ["Responsive Design", "Accessibility (a11y)", "Performance Optimization", "SEO Basics"],
