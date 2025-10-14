@@ -33,18 +33,26 @@ I’m passionate about clean, maintainable code and love studying software archi
 
 ```js
 const MojtabaAhmadzadeh = {
-  pronouns: "He/Him",
-  aboutMe: "I'm Backend Developer(Node.js)",
-  skills: {
-    languages: ["JavaScript", "typeScript"],
-    frameworks: ["Express.js", "fastify", "Nest.js"],
-    microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
-    tools: ["Git", "VSCode", "Chrome DevTools", "Figma"],
-    testing: ["Jest", "React Testing Library"],
-    practices: ["Responsive Design", "Accessibility (a11y)", "Performance Optimization", "SEO Basics"],
-  },
-  currentFocus: "Mastering React Server Components and building scalable frontend architectures",
-  funFact: "I love turning complex UI designs into pixel-perfect code!",
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm Backend Developer(Node.js)"
+    language: ["javaScript", "typeScript"] // Node.js,         
+    myStack: {             
+        backEnd: {             
+          frameworks: ["Express.js", "fastify", "Nest.js"],                   
+          microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
+          realTimeTools: ["socket.io", "webSocket"],
+          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
+          architectures: ["MVC", "onion", "clean", "SOLID"],
+          API: ["postman", "insomnia", "swagger", "openAPI"],
+          
+        },         
+        frontEnd: {             
+          web: ["i'm not front-end developer 😁", "You can call me a bug fixer 😂"],         
+        },         
+        devOps: ["Docker🐳"],               
+   },    
+   currentFocus: "Node.js Web Development",     
+   funFact: "Bug's and Errors are my best friends" 
 };
 
 ```
