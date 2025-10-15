@@ -59,7 +59,8 @@ const MojtabaAhmadzadeh = {
 
 ### Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,github,gitlab,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,git,github,gitlab,postman,graphql,jest,kafka,aws,npm,azure,babel,docker,kubernetes,mongodb,mysql,elasticsearch,postgres,prisma,vercel,rabbitmq,redis)
+
 
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourprofile)
